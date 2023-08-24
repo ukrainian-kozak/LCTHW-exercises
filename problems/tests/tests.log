@@ -1,0 +1,31 @@
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[ERROR] (tests/amountSubstr_test.c:test_problem:9: errno: None) Wrong case 1
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[ERROR] (tests/amountSubstr_test.c:test_problem:9: errno: None) Wrong case 1
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[ERROR] (tests/amountSubstr_test.c:test_problem:9: errno: None) Wrong case 1
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[ERROR] (tests/amountSubstr_test.c:test_problem:24: errno: None) Wrong case 4
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem
+[DEBUG](tests/amountSubstr_test.c) ---- RUNNING: ./tests/amountSubstr_test.tst
+[DEBUG](tests/amountSubstr_test.c) 
+----- test_problem

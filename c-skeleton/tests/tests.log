@@ -1,0 +1,18 @@
+[DEBUG](tests/libex29_tests.c) ---- RUNNING: ./tests/libex29_tests
+[DEBUG](tests/libex29_tests.c) 
+----- test_dlopen
+[DEBUG](tests/libex29_tests.c) 
+----- test_functions
+[DEBUG](tests/libex29_tests.c) 
+----- test_failures
+[DEBUG](tests/libex29_tests.c) 
+----- test_dlclose
+[DEBUG](tests/libex29_tests.c) ---- RUNNING: ./tests/libex29_tests
+[DEBUG](tests/libex29_tests.c) 
+----- test_dlopen
+[DEBUG](tests/libex29_tests.c) 
+----- test_functions
+[DEBUG](tests/libex29_tests.c) 
+----- test_failures
+[DEBUG](tests/libex29_tests.c) 
+----- test_dlclose
